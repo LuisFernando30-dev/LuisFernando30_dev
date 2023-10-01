@@ -24,8 +24,9 @@
   
    <h1 align="center">Redes Sociais</h1>
      <a href = "https://www.linkedin.com/in/lu%C3%ADs-fernando-ferreira-moura-7a58611a4/">
-       <img width="25" src="linkedin.png">
+       <img width="40" height="30" src="linkedin.png">
 
   <a href = "https://www.instagram.com/in/luis_moura.dev">
-          <img width="25" src="instagram.png">
+          <img width="40" height="30" src="instagram.png">
 </div>
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)

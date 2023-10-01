@@ -13,7 +13,7 @@
 <br>
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <img align="left" height="250" alt="coding-time" src="developers.gif">
     <h1 align="center">Minhas Hard Skills</h1>
     <img align="center" height="30" width="40" alt="html5-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
     <img align="center" height="30" width="40" alt="css3-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -29,4 +29,4 @@
   <a href = "https://www.instagram.com/in/luis_moura.dev">
           <img width="40" height="30" src="instagram.png">
 </div>
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LuisFernando30-dev/LuisFernando30-dev/blob/output/github-contribution-grid-snake.svg)

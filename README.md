@@ -23,10 +23,10 @@
    </div>
   
    <h1 align="center">Redes Sociais</h1>
-     <a href = "https://www.linkedin.com/in/lu%C3%ADs-fernando-ferreira-moura-7a58611a4/">
-       <img width="40" height="30" src="linkedin.png">
+     <a href="https://www.linkedin.com/in/lu%C3%ADs-fernando-ferreira-moura-7a58611a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  <a href = "https://www.instagram.com/in/luis_moura.dev">
-          <img width="40" height="30" src="instagram.png">
+
+  <a href="https://instagram.com/luis_moura.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	
 </div>
 ![Snake animation](https://github.com/LuisFernando30-dev/LuisFernando30-dev/blob/output/github-contribution-grid-snake.svg)

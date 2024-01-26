@@ -1,9 +1,8 @@
 ## Fala amigos de rede, Luís Fernando aqui..👋
 
-- 📖 atualmente sou estudante de Análise de sistemas e estou no meu 3º semestre da faculdade 
-- 🌱 tenho conhecimentos em Html, Css, javascript, C# e python
-- 🧑‍🎓 estudei inglês por 1 ano e 6 meses na fisk
-- 🔍 estou em busca de uma vaga de estágio para desenvolver minhas skills e estar frente ao mercado
+- 📖 Analista de sistema e engenheiro de software
+- 🚴‍♂️🏋️ professor na Udemy, youtuber educativo e influencer educador no instagram
+- 🌱 tenho conhecimentos em Html, Css, javascript, Java, python e Sql
 
 <div>
   
